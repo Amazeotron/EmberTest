@@ -1,0 +1,4 @@
+EmberTest
+=========
+
+Just testing EmberJS.
